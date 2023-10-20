@@ -1,3 +1,4 @@
-Hello World
-Hello World again!
-Hello World again!A
+Hello World!
+this is a String.55
+96.99
+c
